@@ -7,6 +7,7 @@ data/raw/
 *.pkl
 *.h5
 *.hdf5
+*.gz
 
 # Optional: ignore processed data too
 # data/processed/
