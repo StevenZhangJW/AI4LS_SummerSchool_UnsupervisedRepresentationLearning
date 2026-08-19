@@ -1,0 +1,14 @@
+{
+  "parameters": 417721,
+  "epochs": 15,
+  "train_seconds": 28.622093888930976,
+  "usable_slices": 207,
+  "final_train_loss": 0.0068626020227121306,
+  "final_validation_loss": 0.007424251335423167,
+  "mae": 0.03951358422636986,
+  "mse": 0.00627258513122797,
+  "psnr_db": 22.025534357492383,
+  "latent_silhouette_proxy": 0.33602988719940186,
+  "image_silhouette_proxy": 0.24903765320777893,
+  "proxy_group_warning": "Slice-position thirds are not true biological or diagnostic classes."
+}
