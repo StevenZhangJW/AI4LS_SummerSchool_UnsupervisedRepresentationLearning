@@ -1,0 +1,16 @@
+{
+  "slice_index": 115,
+  "target_shape": [
+    128,
+    128
+  ],
+  "implicit_parameters": 10113,
+  "implicit_seconds": 8.974030597135425,
+  "implicit_mae": 0.014320628717541695,
+  "implicit_psnr_db": 31.482527236934455,
+  "gaussian_count": 128,
+  "gaussian_parameters": 640,
+  "gaussian_seconds": 5.689282895065844,
+  "gaussian_mae": 0.031196851283311844,
+  "gaussian_psnr_db": 25.024184531251432
+}

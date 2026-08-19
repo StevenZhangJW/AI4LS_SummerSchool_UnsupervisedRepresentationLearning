@@ -1,0 +1,16 @@
+[project]
+name = "ai4ls-unsupervised-representation-learning"
+version = "0.1.0"
+description = "AI4LS summer school tutorials for unsupervised representation learning"
+readme = "README.md"
+requires-python = ">=3.12,<3.13"
+dependencies = [
+    "ipykernel>=7.3.0",
+    "matplotlib>=3.11.1",
+    "nibabel>=5.4.2",
+    "scikit-learn>=1.9.0",
+    "torch>=2.13.0",
+    "torchvision>=0.28.0",
+    "transformers>=5.15.1",
+    "umap-learn>=0.5.12",
+]

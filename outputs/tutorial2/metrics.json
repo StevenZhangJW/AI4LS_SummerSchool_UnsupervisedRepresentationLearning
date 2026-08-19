@@ -1,0 +1,15 @@
+{
+  "dino_model": "facebook/dinov2-small",
+  "dino_parameters": 22056576,
+  "processed_slices": 30,
+  "dino_seconds": 6.31579190120101,
+  "cls_shape": [
+    30,
+    384
+  ],
+  "dino_proxy_silhouette": 0.07312404364347458,
+  "raw_image_proxy_silhouette": 0.16574065387248993,
+  "rotation_parameters": 137284,
+  "rotation_validation_accuracy": 0.9457831325301205,
+  "warning": "Slice-position thirds are proxy groups, not diagnostic classes."
+}
